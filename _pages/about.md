@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-陈斌，山东济宁人，博士，江苏省特聘教授，主要从事多场耦合下的岩石宏细观破坏问题研究。在《JGR: Solid Earth》、《International Journal of Rock Mechanics and Mining Sciences》等地学与岩石力学领域权威期刊上发表学术论文30余篇，其中第一/通讯作者SCI论文16篇，高被引论文1篇，热点论文2篇，总引用1100余次。入选江苏特聘教授、江苏省青年人才托举工程，主持国家自然科学基金青年项目、国家外国专家个人类项目、南京市留学人员科技创新择优资助项目等科研课题6项。登记软件著作权2项。任SCI 期刊《International Journal of Mining Science and Technology》（IF 13.7）、《Rock Mechanics Bulletin》（IF 7.0）青年编委，中国岩石力学与工程学会人工智能技术实用化专业委员会、岩体物理数学模拟专业委员会委员。
+陈斌，山东济宁人，博士，江苏特聘教授，主要从事多场耦合下的岩石宏细观破坏问题研究。在《JGR: Solid Earth》、《International Journal of Rock Mechanics and Mining Sciences》等地学与岩石力学领域权威期刊上发表学术论文30余篇，其中第一/通讯作者SCI论文16篇，高被引论文1篇，热点论文2篇，总引用1100余次。入选江苏特聘教授、江苏省青年人才托举工程，主持国家自然科学基金青年项目、国家外国专家个人类项目、南京市留学人员科技创新择优资助项目等科研课题6项。登记软件著作权2项。任SCI 期刊《International Journal of Mining Science and Technology》（IF 13.7）、《Rock Mechanics Bulletin》（IF 7.0）青年编委，中国岩石力学与工程学会人工智能技术实用化专业委员会、岩体物理数学模拟专业委员会委员。
 
 ## 教育经历
 * **博士**, 英国斯旺西大学, 2014.10-2018.08
