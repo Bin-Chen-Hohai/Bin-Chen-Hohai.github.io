@@ -13,9 +13,9 @@ title                    : "个人简介"
 title_separator          : "-"
 name                     : &name "陈斌"
 description              : &description "课题组"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://chenbin-hhu.github.io" 
+url                      : "https://Bin-Chen-Hohai.github.io" 
 baseurl                  : ""
-repository               : "chenbin-hhu/chenbin-hhu.github.io"
+repository               : "Bin-Chen-Hohai/Bin-Chen-Hohai.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/chenbin-hhu"
+  github           : "https://github.com/Bin-Chen-Hohai"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
