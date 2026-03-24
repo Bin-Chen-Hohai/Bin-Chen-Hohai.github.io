@@ -1,6 +1,6 @@
 ---
 title: "基于机器学习的裂隙岩体等效渗透率预测研究"
-collection: publications
+collection:
 permalink: 
 excerpt: '本研究深入探讨了'
 date: 2026-01-14
