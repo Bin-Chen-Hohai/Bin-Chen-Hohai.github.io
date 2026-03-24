@@ -1,4 +1,5 @@
 ---
+<img src="/images/chenbin.jpg" width="200" align="right">
 permalink: /
 title: "一段话介绍"
 author_profile: true
