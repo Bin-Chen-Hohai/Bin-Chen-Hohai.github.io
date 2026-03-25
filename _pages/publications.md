@@ -9,15 +9,15 @@ author_profile: true
 **方向 I: 深部岩体热裂缝扩展规律与机制***
 
 代表性论文：
-1. **Chen B.***, Shu Q., Zhou Q., Wang Y.*. Fundamental insights into thermoporoelastic effects during thermal fracturing induced by cold fluid injection. International Journal of Rock Mechanics and Mining Sciences（中科院Top期刊）. 2026;198, 106393. [[DOI]](https://doi.org/10.1016/j.ijrmms.2025.106393)
+1. **Chen B***, Shu Q, Zhou Q, Wang Y*. Fundamental insights into thermoporoelastic effects during thermal fracturing induced by cold fluid injection. International Journal of Rock Mechanics and Mining Sciences（中科院Top期刊）. 2026;198, 106393.[[DOI]](https://doi.org/10.1016/j.ijrmms.2025.106393)
 
-2. **Chen B.***, Zhou Q., 2025. Propagation and arrest of multiple radial thermal fractures transverse to a horizontal well. *International Journal of Rock Mechanics and Mining Sciences* (中科院1区TOP, IF 7.2), 189, 106092. [[DOI]](https://doi.org/10.1016/j.ijrmms.2025.106092)
+2. **Chen B***, Zhou Q. Propagation and arrest of multiple radial thermal fractures transverse to a horizontal well. International Journal of Rock Mechanics and Mining Sciences（中科院Top期刊）. 2025;189, 106092.[[DOI]](https://doi.org/10.1016/j.ijrmms.2025.106092)
 
-3. **Chen B.***, Zhou Q., 2024. Modeling of Thermally Driven Longitudinal Fractures Along a Vertical Well. *International Journal of Rock Mechanics and Mining Sciences* (中科院1区TOP, IF 7.2), 183, 105942. [[DOI]](https://doi.org/10.1016/j.ijrmms.2024.105942)
+3. **Chen B.***, Zhou Q. Modeling of thermally driven longitudinal fractures along a vertical well. International Journal of Rock Mechanics and Mining Sciences（中科院Top期刊）. 2024;183, 105942. [[DOI]](https://doi.org/10.1016/j.ijrmms.2024.105942)
 
-4. **Chen B.**, Zhou Q.*, 2022. Scaling behavior of thermally driven fractures in low-permeability deep reservoirs: a plane strain model with 1-D heat conduction. *Journal of Geophysical Research: Solid Earth* (Nature index journal, IF 4.39), 127, e2021JB022964. [[DOI]](https://doi.org/10.1029/2021JB022964)
+4. **Chen B.**, Zhou Q*. Scaling behavior of thermally driven fractures in deep low-permeability formations: a plane strain model with 1-D heat conduction. Journal of Geophysical Research: Solid Earth（中科院Top期刊）. 2022;127(2): e2021JB022964. [[DOI]](https://doi.org/10.1029/2021JB022964)
 
-5. **Chen B.***, Zhou Q., 2021. Propagation, arrest, and reactivation of thermally driven fractures in an unconfined half-space using stability analysis[J]. Theoretical and Applied Fracture Mechanics（中科院Top期刊）. 114: 102969.
+5. **Chen B.***, Zhou Q. Propagation, arrest, and reactivation of thermally driven fractures in an unconfined half-space using stability analysis. Theoretical and Applied Fracture Mechanics（中科院Top期刊）. 2021;114: 102969. [[DOI]](https://doi.org/10.1016/j.tafmec.2021.102969)
 
 **方向 II: 水力压裂裂缝扩展机制与缝网演化***
 
