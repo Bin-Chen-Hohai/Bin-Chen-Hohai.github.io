@@ -8,6 +8,9 @@ author_profile: true
 
 **方向 I: 深部岩体热裂缝扩展规律与机制**
 
+
+
+
 代表性论文：
 1. **Chen B***, Shu Q, Zhou Q, Wang Y*. Fundamental insights into thermoporoelastic effects during thermal fracturing induced by cold fluid injection. International Journal of Rock Mechanics and Mining Sciences（中科院Top期刊）. 2026;198, 106393.[[DOI]](https://doi.org/10.1016/j.ijrmms.2025.106393)
 
@@ -21,6 +24,10 @@ author_profile: true
 
 **方向 II: 水力压裂裂缝扩展机制与缝网演化**
 
+
+
+
+
 代表性论文：
 1. **Chen B**, Barboza BR, Sun Y, Bai J, Thomas HR, Dutko M, Cottrell M, Li C*. A review of hydraulic fracturing simulation. Archives of Computational Methods in Engineering（中科院Top期刊）. 2021;29(4): 1-58. [[DOI]](https://doi.org/10.1007/s11831-021-09653-z)
 
@@ -29,6 +36,9 @@ author_profile: true
 
 
 **方向 III: 岩石宏细观性质关联机制与破坏机理**
+
+
+
 
 代表性论文：
 1. Xiang J, **Chen B**, Latham J-P, Pain C.. Numerical simulation of rock erosion performance of a high-speed water jet using an immersed body method. International Journal of Rock Mechanics and Mining Sciences（中科院Top期刊）, 2022;158, 105179. [[DOI]](https://doi.org/10.1016/j.ijrmms.2022.105179)
