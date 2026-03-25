@@ -42,7 +42,7 @@ author_profile: true
 
 
 代表性论文：
-1. Xiang J, **Chen B**, Latham J-P, Pain C.. Numerical simulation of rock erosion performance of a high-speed water jet using an immersed body method. International Journal of Rock Mechanics and Mining Sciences（中科院Top期刊）, 2022;158, 105179. [[DOI]](https://doi.org/10.1016/j.ijrmms.2022.105179)
+1. Xiang J, **Chen B***, Latham J-P, Pain C.. Numerical simulation of rock erosion performance of a high-speed water jet using an immersed body method. International Journal of Rock Mechanics and Mining Sciences（中科院Top期刊）, 2022;158, 105179. [[DOI]](https://doi.org/10.1016/j.ijrmms.2022.105179)
 
 2. **Chen B***, Xiang J, Latham JP. Influence of inter-grain cementation stiffness on the effective elastic properties of porous Bentheim sandstone. Journal of Rock Mechanics and Geotechnical Engineering（中科院Top期刊）. 2022;15(3): 1-11. [[DOI]](https://doi.org/10.1016/j.jrmge.2022.06.009)
 
