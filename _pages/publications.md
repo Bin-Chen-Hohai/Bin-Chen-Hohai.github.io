@@ -33,6 +33,7 @@ author_profile: true
 
 2. **Chen B**, Sun Y, Barboza BR, Barron AR, Li C*. Phase-field simulation of hydraulic fracturing with a revised fluid model and hybrid solver. Engineering Fracture Mechanics（中科院Top期刊）. 2020;229.106928 [[DOI]](https://doi.org/10.1016/j.engfracmech.2020.106928)
 
+3. **Chen B**, Barron AR , Owen DRJ, Li C*. Propagation of a plane strain hydraulic fracture with a fluid lag in permeable rock. ASME Journal of Applied Mechanics. 2018;85(9): 091003-091003-10. 
 
 
 **方向 III: 岩石宏细观性质关联机制与破坏机理**
