@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Journal Articles
 
-**方向 I: 深部岩体热裂缝扩展规律与机制***
+**方向 I: 深部岩体热裂缝扩展规律与机制**
 
 代表性论文：
 1. **Chen B***, Shu Q, Zhou Q, Wang Y*. Fundamental insights into thermoporoelastic effects during thermal fracturing induced by cold fluid injection. International Journal of Rock Mechanics and Mining Sciences（中科院Top期刊）. 2026;198, 106393.[[DOI]](https://doi.org/10.1016/j.ijrmms.2025.106393)
@@ -19,7 +19,7 @@ author_profile: true
 
 5. **Chen B.***, Zhou Q. Propagation, arrest, and reactivation of thermally driven fractures in an unconfined half-space using stability analysis. Theoretical and Applied Fracture Mechanics（中科院Top期刊）. 2021;114: 102969. [[DOI]](https://doi.org/10.1016/j.tafmec.2021.102969)
 
-**方向 II: 水力压裂裂缝扩展机制与缝网演化***
+**方向 II: 水力压裂裂缝扩展机制与缝网演化**
 
 代表性论文：
 1. **B. Chen**, B.R. Barboza, Y.N. Sun, J. Bai, H.R. Thomas, M. Cottrell, C.F. Li*, 2021. A review of hydraulic fracturing simulation. *Archives of Computational Methods in Engineering* (中科院1区TOP, IF 8.17), 29: 1-58. [[DOI]](https://doi.org/10.1007/s11831-021-09653-z)
@@ -28,7 +28,7 @@ author_profile: true
 
 
 
-**方向 III: 岩石宏细观性质关联机制与破坏机理***
+**方向 III: 岩石宏细观性质关联机制与破坏机理**
 
 代表性论文：
 1. J.S. Xiang, **B. Chen***, J.P. Latham, 2022. Numerical simulation of rock erosion performance of a high-speed water jet using an immersed body method. *International Journal of Rock Mechanics and Mining Sciences* (中科院1区TOP, IF 7.2), 158, 105879. [[DOI]](https://doi.org/10.1016/j.ijrmms.2022.105179)
