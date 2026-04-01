@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Journal Articles
 
-**方向 I: 深部岩体热裂缝扩展规律与机制**
+## 方向 I: 深部岩体热裂缝扩展规律与机制
 
 
 
