@@ -22,7 +22,7 @@ author_profile: true
 
 5. **Chen B***, Zhou Q. Propagation, arrest, and reactivation of thermally driven fractures in an unconfined half-space using stability analysis. Theoretical and Applied Fracture Mechanics（中科院Top期刊）. 2021;114: 102969. [[DOI]](https://doi.org/10.1016/j.tafmec.2021.102969)
 
-**方向 II: 水力压裂裂缝扩展机制与缝网演化**
+## 方向 II: 水力压裂裂缝扩展机制与缝网演化
 
 
 
@@ -36,7 +36,7 @@ author_profile: true
 3. **Chen B**, Barron AR , Owen DRJ, Li C*. Propagation of a plane strain hydraulic fracture with a fluid lag in permeable rock. ASME Journal of Applied Mechanics. 2018;85(9): 091003-091003-10. 
 
 
-**方向 III: 岩石宏细观性质关联机制与破坏机理**
+## 方向 III: 岩石宏细观性质关联机制与破坏机理
 
 
 
