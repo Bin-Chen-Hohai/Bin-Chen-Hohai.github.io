@@ -31,6 +31,5 @@ redirect_from:
 * 地下储能
 
 ## 团队新闻
-* **[2026年3月]** 
-* **[2026年1月]**
-* **[2026年1月]** 
+* **[2025年12月] 课题组在中科院1区TOP期刊IJRMMS发表题为“Fundamental insights into thermoporoelastic effects during thermal fracturing induced by cold fluid injection”的学术论文** 
+
