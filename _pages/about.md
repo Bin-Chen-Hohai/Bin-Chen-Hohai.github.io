@@ -32,4 +32,4 @@ redirect_from:
 
 ## 团队新闻
 * **[2025年12月] 课题组在中科院1区TOP期刊IJRMMS发表题为“Fundamental insights into thermoporoelastic effects during thermal fracturing induced by cold fluid injection”的学术论文** 
-
+* **[2025年6月] 课题组负责人获批江苏省青年人才托举工程项目** 
